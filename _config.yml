@@ -19,7 +19,7 @@ title: Jasmine's Portfolio # the main title
 tagline: Computer Science Master Student @ UCSB # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Computer Science Master Student @ UCSB | UCSC Bachelor's Graduate 
+  CS Master's Student @ UCSB
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
